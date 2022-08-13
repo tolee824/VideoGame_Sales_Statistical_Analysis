@@ -27,13 +27,13 @@ To understand video game sales, I had to use data visualizations and sampling me
 
 ## Resources:
 
-*https://www.kaggle.com/gregorut/videogamesales (dataset)
+* https://www.kaggle.com/gregorut/videogamesales (dataset)
 
-*https://journals.sagepub.com/doi/full/10.1177/1046878120945735 (study on Poland (EU) vs US gaming preferences)
+* https://journals.sagepub.com/doi/full/10.1177/1046878120945735 (study on Poland (EU) vs US gaming preferences)
 
-*https://www.europeanbusinessreview.com/how-has-technology-changed-the-gaming-industry/ (3D gaming aspect)
+* https://www.europeanbusinessreview.com/how-has-technology-changed-the-gaming-industry/ (3D gaming aspect)
 
-*https://www.ladbible.com/entertainment/gaming-the-ps2-was-the-best-video-games-console-of-all-timefact-20170303 (PS2)
+* https://www.ladbible.com/entertainment/gaming-the-ps2-was-the-best-video-games-console-of-all-timefact-20170303 (PS2)
 
 
 
