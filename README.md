@@ -1,12 +1,39 @@
 # VideoGame Sales Statistical Analysis
 
+#### -- Project Status: [Completed]
+
+## Project Description
 The following statistical analysis is to determine how video game sales performed over the past decades. 
-Used statistical visualizations such as histograms and correlation plots, Central Limit Theorem (CLT), sampling methods and text mining in analysis.
+To understand video game sales, I had to use data visualizations and sampling methods:
 
-"CS544_Final_Project_Lee.pdf": Entire Statistical Analysis
+* Visualize the distrubtion of game sales by year.
+* Visualize game sales vs platform (gaming console)
+* Determine if there is correlation between regional sales
+* Figure out average critic's scores using various sampling methods
+* Determine what are commonly used words in popular video game titles 
 
-"CS544_Final_Project_Lee.Rmd": R markdown version of statistical analysis
 
-"Video_Games_Sales_as_at_22_Dec_2016.csv": Dataset (originally from Kaggle)
+### Methods Used
+* Correlation Analysis
+* Central Limit Theorem (CLT)
+* Simple Random Sampling
+* Systematic Sampling 
+* Stratified Sampling
+* Natural Language Processing (NLP)
+
+### Technologies 
+* R Markdown
+
+
+## Resources:
+
+*https://www.kaggle.com/gregorut/videogamesales (dataset)
+
+*https://journals.sagepub.com/doi/full/10.1177/1046878120945735 (study on Poland (EU) vs US gaming preferences)
+
+*https://www.europeanbusinessreview.com/how-has-technology-changed-the-gaming-industry/ (3D gaming aspect)
+
+*https://www.ladbible.com/entertainment/gaming-the-ps2-was-the-best-video-games-console-of-all-timefact-20170303 (PS2)
+
 
 
